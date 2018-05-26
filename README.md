@@ -10,12 +10,17 @@
 - checkout on branch develop_hackathon
 - go to the 'develop' doc http://caliopen.readthedocs.io/en/develop/install/frontend-development/
 - (see troubleshooting) `sysctl -w vm.max_map_count=262144`
-- do not build, but `docker-compose up -d redis cassandra elasticsearch`
+- do not build immediately, but first `docker-compose up -d redis cassandra elasticsearch`
 
 - Create a nginx proxy to view the frontend remotely
 
-    proxy_pass http://localhost:4000;
-    include proxy_params;
+        proxy_pass http://localhost:4000;
+        include proxy_params;
 
-symlink 
+- visit your IP address in your browser, you should get :
+
+![home](home.png)
+
+
+
 
