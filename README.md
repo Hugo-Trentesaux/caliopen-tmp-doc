@@ -1,6 +1,6 @@
-# Install caliopen on vm
+# Install caliopen on a vm
 
-## Create virtual machine at gandi
+## Create a virtual machine at gandi
 
 - debian8
 - manage sudoers (or do everything in root)
