@@ -53,3 +53,29 @@ Au contraire, duckduckgo est classé 'A', et aucune popup requérant une interve
 
 ![ddg](img/tosdr-ddg.png)
 
+#TOR
+Dans sa vidéo d'introduction, TOR représente l'anonymat :
+![tor](img/tor-anonyme.png)
+Un site web n'a pas besoin de savoir qui on est.
+![tor](img/tor-proteger.png)
+Tor valorise l'utilisateur : en utilisant tor, vous faîtes quelque chose de bien, vous protégez les activistes, les journalistes, les contre pouvoirs démocratiques, et les lanceurs d'alerte. Vous protégez la démocratie.
+
+#Conclusions
+- on peut créer une "ambiance" de sécurité à travers plusieurs éléments visuels (jeu de couleurs, effets, animations...), les couleurs sombres sont souvent utilisées
+- les indices de sécurité sont omniprésents (présents sur chaque bouton) et sont valorisants (couleur agréable)
+- on peut donner les moyens à l'utilisateur d'en savoir plus, pour l'inciter à se poser des questions et cherche à y répondre, et cela à plusieurs niveaux de difficulté
+- il faut valoriser l'action de l'utilisateur : en protégeant sa vie privée, il rend service à la société.
+
+## Theme
+- Faire attention au changement de theme
+- caliopen est fait pour augmenter la privacy de manière graduelle, pas binaire
+
+### idées de logo
+- cadenas
+- bouclier
+- masque "d'anonymat" (V pour vendetta)
+- lunettes et chapeau "d'espion"
+- caméra de surveillance
+
+### idées diverses
+- "assistant personnel" type clippy
