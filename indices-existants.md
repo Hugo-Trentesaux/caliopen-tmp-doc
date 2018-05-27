@@ -44,7 +44,7 @@ Firefox affiche un verrou vert pour les connections http + ssl et donne la possi
 - choix de couleur sombre (gris)
 - lunettes de l'espion
 
-##TOSDR
+## TOSDR
 L'extension "terms of service didn't read" prévient l'utilisateur par une pop-up lorsqu'il consulte un site qui a une mauvaise note de protection des données. Voici un example avec Youtube, qui est de classe 'D'.
 
 ![tosdr](img/tosdr.png)
