@@ -32,5 +32,11 @@ Je n'ai pas ça sur mon téléphone, si quelqu'un veut bien jeter un coup d'oeil
 - firefox nous explique ce que la navigation privée permet, ce qu'elle ne permet pas
 
 ##TOSDR
-Pour une raison inconnue, l'extension "terms of service didn't read" s'est arrêtée de fonctionner sur mon navigateur. À voir, mais elle prévient l'utilisateur par une pop-up lorsqu'un consulte un site qui a une mauvaise note de protection des données.
+L'extension "terms of service didn't read" prévient l'utilisateur par une pop-up lorsqu'il consulte un site qui a une mauvaise note de protection des données. Voici un example avec Youtube, qui est de classe 'D'.
+
+![tosdr](img/tosdr.png)
+
+Au contraire, duckduckgo est classé 'A', et aucune popup requérant une intervention de l'utilisateur ne s'affiche (on peut toutefois l'afficher comme montré ici.
+
+![ddg](img/tosdr-ddg.png)
 
