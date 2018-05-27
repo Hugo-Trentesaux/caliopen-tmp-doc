@@ -1,0 +1,13 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2018-05-27T10:35:16
+#=#=#=#=# Propagation starts 2018-05-27T10:35:16 (last step: 432 msec, total: 432 msec)
+08:35:16||Screenshot_20180527-103410.png|INST_NEW|Down|1527410059|5db3bcfcdba411d9443fb8b3b401fb78|120254|00052735oc790jptg44k|4||0|0|0|||INST_NONE|
+08:35:16||home.png|INST_NEW|Up|1527338796|9320bdde8d2690eb8a4e78f91cb0861a|52838|00052739oc790jptg44k|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T10:35:17 (last step: 737 msec, total: 1170 msec)
+#=#=#=# Syncrun started 2018-05-27T10:36:06
+#=#=#=#=# Propagation starts 2018-05-27T10:36:07 (last step: 416 msec, total: 416 msec)
+08:36:07||Screenshot_20180527-103410.png -> non-securise.png|INST_RENAME|Up|1527410059|5db3bcfcdba411d9443fb8b3b401fb78|120254|00052735oc790jptg44k|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T10:36:07 (last step: 480 msec, total: 897 msec)
+#=#=#=# Syncrun started 2018-05-27T10:36:46
+#=#=#=#=# Propagation starts 2018-05-27T10:36:46 (last step: 490 msec, total: 490 msec)
+#=#=#=# Syncrun finished 2018-05-27T10:36:46 (last step: 103 msec, total: 594 msec)

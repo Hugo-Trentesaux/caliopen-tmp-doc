@@ -19,7 +19,7 @@
 
 - visit your IP address in your browser, you should get :
 
-![home](home.png)
+![home](img/home.png)
 
 
 
