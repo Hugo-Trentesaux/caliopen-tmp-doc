@@ -53,6 +53,14 @@ Au contraire, duckduckgo est classé 'A', et aucune popup requérant une interve
 
 ![ddg](img/tosdr-ddg.png)
 
+## Duckduckgo plugin
+
+Le plugin de duckduckgo fait à peu près la même chose : il attribue une note aux sites. Exemple : A pour duckduckgo, B pour qwant, D pour google... Il utilise TOSDR.
+
+![ddg](img/ddg-plugin1.png)
+![ddg](img/ddg-plugin2.png)
+
+
 # TOR
 Dans sa vidéo d'introduction, TOR représente l'anonymat :
 ![tor](img/tor-anonyme.png)
