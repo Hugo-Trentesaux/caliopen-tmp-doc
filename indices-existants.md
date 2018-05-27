@@ -1,8 +1,8 @@
-#Indices de sécurité / vie privée
+# Indices de sécurité / vie privée
 
 L'objectif de cette page est d'observer les systèmes existants pour voir comment ils informent l'utilisateur du niveau de sécurité.
 
-##Signal / silence
+## Signal / silence
 Les interfaces de signal et de silence sont assez similaires.
 
 ![signal](img/signal-view.png)
@@ -20,13 +20,13 @@ Les interfaces de signal et de silence sont assez similaires.
 - Un lien "en savoir plus" est proposé, il renvoie vers la question adaptée dans la FAQ de signal.
 
 
-##Telegram
+## Telegram
 Je n'ai pas réussi à prendre de capture d'écran d'une conversation sécurisée avec Telegram, mais quand on initialise une conversation sécurisée, il explique en bullet points à l'utilisateur en quoi consiste une conversation chiffrée bout-à-bout.
 
-##Whatsapp / Google Allo / Messenger
+## Whatsapp / Google Allo / Messenger
 Je n'ai pas ça sur mon téléphone, si quelqu'un veut bien jeter un coup d'oeil...
 
-##Firefox
+## Firefox
 ![https](img/firefox-https.png)
 ![https](img/firefox-https2.png)
 ![https](img/firefox-https3.png)
@@ -45,32 +45,11 @@ Firefox affiche un verrou vert pour les connections http + ssl et donne la possi
 - lunettes de l'espion
 
 ##TOSDR
-Pour une raison inconnue, l'extension "terms of service didn't read" s'est arrêtée de fonctionner sur mon navigateur. À voir, mais elle prévient l'utilisateur par une pop-up lorsqu'un consulte un site qui a une mauvaise note de protection des données.
-L'enlever nécessite une action de l'utilisateur.
+L'extension "terms of service didn't read" prévient l'utilisateur par une pop-up lorsqu'il consulte un site qui a une mauvaise note de protection des données. Voici un example avec Youtube, qui est de classe 'D'.
 
-#TOR
-Dans sa vidéo d'introduction, TOR représente l'anonymat :
-![tor](img/tor-anonyme.png)
-Un site web n'a pas besoin de savoir qui on est.
-![tor](img/tor-proteger.png)
-Tor valorise l'utilisateur : en utilisant tor, vous faîtes quelque chose de bien, vous protégez les activistes, les journalistes, les contre pouvoirs démocratiques, et les lanceurs d'alerte. Vous protégez la démocratie.
+![tosdr](img/tosdr.png)
 
-#Conclusions
-- on peut créer une "ambiance" de sécurité à travers plusieurs éléments visuels (jeu de couleurs, effets, animations...), les couleurs sombres sont souvent utilisées
-- les indices de sécurité sont omniprésents (présents sur chaque bouton) et sont valorisants (couleur agréable)
-- on peut donner les moyens à l'utilisateur d'en savoir plus, pour l'inciter à se poser des questions et cherche à y répondre, et cela à plusieurs niveaux de difficulté
-- il faut valoriser l'action de l'utilisateur : en protégeant sa vie privée, il rend service à la société.
+Au contraire, duckduckgo est classé 'A', et aucune popup requérant une intervention de l'utilisateur ne s'affiche (on peut toutefois l'afficher comme montré ici.
 
-## Theme
-- Faire attention au changement de theme
-- caliopen est fait pour augmenter la privacy de manière graduelle, pas binaire
+![ddg](img/tosdr-ddg.png)
 
-### idées de logo
-- cadenas
-- bouclier
-- masque "d'anonymat" (V pour vendetta)
-- lunettes et chapeau "d'espion"
-- caméra de surveillance
-
-### idées diverses
-- "assistant personnel" type clippy
