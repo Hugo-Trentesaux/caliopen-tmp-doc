@@ -11,3 +11,39 @@
 #=#=#=# Syncrun started 2018-05-27T10:36:46
 #=#=#=#=# Propagation starts 2018-05-27T10:36:46 (last step: 490 msec, total: 490 msec)
 #=#=#=# Syncrun finished 2018-05-27T10:36:46 (last step: 103 msec, total: 594 msec)
+#=#=#=# Syncrun started 2018-05-27T10:44:46
+#=#=#=#=# Propagation starts 2018-05-27T10:44:46 (last step: 378 msec, total: 378 msec)
+08:44:46||Screenshot_20180527-104038.png|INST_NEW|Down|1527410665|cb61617e0843f356623d52bccf56fb8c|86116|00052740oc790jptg44k|4||0|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T10:44:47 (last step: 418 msec, total: 796 msec)
+#=#=#=# Syncrun started 2018-05-27T11:27:19
+#=#=#=#=# Propagation starts 2018-05-27T11:27:20 (last step: 759 msec, total: 759 msec)
+09:27:20||firefox-private.png|INST_NEW|Up|1527413237|a40617898a208c53337252f090baed75|160364|00052744oc790jptg44k|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T11:27:21 (last step: 575 msec, total: 1335 msec)
+#=#=#=# Syncrun started 2018-05-27T11:28:16
+#=#=#=#=# Propagation starts 2018-05-27T11:28:16 (last step: 495 msec, total: 495 msec)
+#=#=#=# Syncrun finished 2018-05-27T11:28:16 (last step: 4 msec, total: 499 msec)
+#=#=#=# Syncrun started 2018-05-27T11:28:38
+#=#=#=#=# Propagation starts 2018-05-27T11:28:39 (last step: 563 msec, total: 563 msec)
+09:28:39||firefox-private.png|INST_SYNC|Up|1527413317|7bdb2b3497927d942806172a0dccc638|97615|00052744oc790jptg44k|4||204|160364|1527413237|a40617898a208c53337252f090baed75|00052744oc790jptg44k|INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T11:28:39 (last step: 506 msec, total: 1069 msec)
+#=#=#=# Syncrun started 2018-05-27T11:29:09
+#=#=#=#=# Propagation starts 2018-05-27T11:29:09 (last step: 488 msec, total: 488 msec)
+09:29:09||Screenshot_20180527-104038.png -> qr-signal.png|INST_RENAME|Up|1527410665|cb61617e0843f356623d52bccf56fb8c|86116|00052740oc790jptg44k|4||201|0|0|||INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T11:29:10 (last step: 462 msec, total: 950 msec)
+#=#=#=# Syncrun started 2018-05-27T11:29:46
+#=#=#=#=# Propagation starts 2018-05-27T11:29:46 (last step: 502 msec, total: 502 msec)
+#=#=#=# Syncrun finished 2018-05-27T11:29:46 (last step: 6 msec, total: 508 msec)
+#=#=#=# Syncrun started 2018-05-27T11:37:40
+#=#=#=#=# Propagation starts 2018-05-27T11:37:41 (last step: 532 msec, total: 533 msec)
+09:37:41||qr-signal.png|INST_SYNC|Up|1527413859|ebde9b2faf938b0e59e9b3949fe2b0f9|107266|00052740oc790jptg44k|4||204|86116|1527410665|cb61617e0843f356623d52bccf56fb8c|00052740oc790jptg44k|INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T11:37:41 (last step: 515 msec, total: 1048 msec)
+#=#=#=# Syncrun started 2018-05-27T11:38:16
+#=#=#=#=# Propagation starts 2018-05-27T11:38:17 (last step: 732 msec, total: 732 msec)
+#=#=#=# Syncrun finished 2018-05-27T11:38:17 (last step: 4 msec, total: 736 msec)
+#=#=#=# Syncrun started 2018-05-27T11:39:17
+#=#=#=#=# Propagation starts 2018-05-27T11:39:17 (last step: 478 msec, total: 478 msec)
+09:39:17||qr-signal.png|INST_SYNC|Up|1527413955|bb2c66de9a5d1224d1faeaf418b55f5d|106314|00052740oc790jptg44k|4||204|107266|1527413859|ebde9b2faf938b0e59e9b3949fe2b0f9|00052740oc790jptg44k|INST_NONE|
+#=#=#=# Syncrun finished 2018-05-27T11:39:18 (last step: 487 msec, total: 965 msec)
+#=#=#=# Syncrun started 2018-05-27T11:40:16
+#=#=#=#=# Propagation starts 2018-05-27T11:40:16 (last step: 495 msec, total: 495 msec)
+#=#=#=# Syncrun finished 2018-05-27T11:40:16 (last step: 4 msec, total: 499 msec)
